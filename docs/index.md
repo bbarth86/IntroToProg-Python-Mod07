@@ -188,11 +188,13 @@ Unfortunately, I could not seem to find success with `pickle.load`. This made it
 Appreciate any suggestion or feedback you as the reader are able to provide on the error encountered in my `FileProcessor.ReadBinaryFileDataToList()` function, where the error is encountered.
 
 ### References used this week:
-https://pythonprogramming.net/python-pickle-module-save-objects-serialization
+[https://pythonprogramming.net/python-pickle-module-save-objects-serialization](https://pythonprogramming.net/python-pickle-module-save-objects-serialization)
 
-https://www.pythoncentral.io/how-to-pickle-unpickle-tutorial/
+[https://www.pythoncentral.io/how-to-pickle-unpickle-tutorial/](https://www.pythoncentral.io/how-to-pickle-unpickle-tutorial/)
 
-https://docs.python.org/3/library/exceptions.html
+[https://docs.python.org/3/library/exceptions.html](https://docs.python.org/3/library/exceptions.html)
 
-https://docs.python.org/3/library/pickle.html
+[https://docs.python.org/3/library/pickle.html](https://docs.python.org/3/library/pickle.html)
+
+
 
