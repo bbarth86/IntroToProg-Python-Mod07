@@ -149,7 +149,7 @@ _Fig 18 – Executing Assignment07 in Command Prompt - Operation 6 - Saving to b
 ## Summary
 In retrospect, I probably could have elected to author a new script, from scratch, but I wanted to challenge myself to continue building on last week's assignment which I also felt gave me an opprotunity to "put it all together" with respect to file read/write, pickling, and error handling. A new, simpler script probably would have made for an easier time in troubleshooting however.
 
-Unfortunately, I could not seem to find success with pickle.load. This made it further difficult for me to verify whether the lists I saved to a binary file via Operation 6 were saved in the format intended. The text file looks correct, but I would prefer to be certain.
+Unfortunately, I could not seem to find success with `pickle.load`. This made it further difficult for me to verify whether the lists I saved to a binary file via Operation 6 were saved in the format intended. The text file looks correct, but I would prefer to be certain.
 
 Appreciate any suggestion or feedback you as the reader are able to provide on the error encountered in my `FileProcessor.ReadBinaryFileDataToList()` function, where the error is encountered.
 
